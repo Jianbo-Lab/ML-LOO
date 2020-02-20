@@ -32,7 +32,7 @@ Train ML-LOO and evaluate it on the test set.
 ```shell
 python train_and_evaluate.py --dataset_name cifar10 --model_name resnet --data_sample x_val200
 ```
-
+The generated AUC plot can be found in cifar10resnet/figs/.
 
 
 
